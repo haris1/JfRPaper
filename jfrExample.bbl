@@ -1,0 +1,381 @@
+\begin{thebibliography}{}
+
+\bibitem[eur, 2013]{eurathlon}
+ (2013).
+\newblock Eurathlon site (http://www.eurathlon.eu/), accessed on 6/11/2014.
+
+\bibitem[b-f, 2015]{b-fast}
+ (2015).
+\newblock B-fast site (http://www.b-fast.be/), accessed on 8/19/2015.
+
+\bibitem[Assessment Capacities Project (ACAPS) Briefing Note Floods in Serbia,
+  2014]{bosnia}
+Assessment Capacities Project (ACAPS) Briefing Note Floods in Serbia (2014).
+\newblock Bosnia and Herzegovina, and Croatia. 26 May 2014.
+
+\bibitem[{AtlantikSolar: A UAV for the first-ever autonomous solar--powered
+  crossing of the Atlantic Ocean}, 2014]{AtlantikSolarSite}
+{AtlantikSolar: A UAV for the first-ever autonomous solar--powered crossing of
+  the Atlantic Ocean} (available 2014).
+\newblock {http://www.atlantiksolar.ethz.ch/}.
+
+\bibitem[Balta et~al., 2015]{BosniaUAS}
+Balta, H., De~Cubber, G., Baudoin, Y., and Doroftei, D. (2015).
+\newblock Uas deployment and data processing during the balkans flooding with
+  the support to mine action.
+\newblock In {\em 8th IARP International Workshop on Robotics for Risky
+  Environments}, Lisbon, Portugal.
+
+\bibitem[Balta et~al., 2013]{Haris2}
+Balta, H., De~Cubber, G., Doroftei, D., Baudoin, Y., and Sahli, H. (2013).
+\newblock Terrain traversability analysis for off-road robots using
+  time-of-flight 3d sensing.
+\newblock In {\em 7th IARP International Workshop on Robotics for Risky
+  Environment - Extreme Robotics}, Saint-Petersburg, Russia.
+
+\bibitem[Baudoin et~al., 2009]{viewfinder}
+Baudoin, Y., Doroftei, D., De~Cubber, G., Berrabah, S.~A., Pinzon, C., Warlet,
+  F., Gancet, J., Motard, E., Ilzkovitz, M., Nalpantidis, L., and Gasteratos,
+  A. (2009).
+\newblock View-finder: Robotics assistance to fire-fighting services and crisis
+  management.
+\newblock In {\em IEEE International Workshop on Safety, Security, and Rescue
+  Robotics, (SSRR 2009)}.
+
+\bibitem[Bedkowski et~al., 2013a]{CSH_DARPA}
+Bedkowski, J., Majek, K., Maslowski, A., and Kaczmarek, P. (2013a).
+\newblock Recognition of 3d objects for walking robot equipped with
+  multisense-sl sensor head.
+\newblock In {\em Proceedings of the 16th International Conference on Climbing
+  and Walking Robots and the Support Technologies for Mobile Machines}.
+
+\bibitem[Bedkowski et~al., 2013b]{nuechter2013e}
+Bedkowski, J., Majek, K., and N{\"u}chter, A. (2013b).
+\newblock {General Purpose Computing on Graphics Processing Units for Robotic
+  Applications}.
+\newblock {\em Journal of Software Engineering for Robotics (JOSER)},
+  4(1):23--33.
+
+\bibitem[Bedkowski et~al., 2012]{Bedkowski2012}
+Bedkowski, J., Maslowski, A., and de~Cubber, G. (2012).
+\newblock {Real time 3{D} localization and mapping for USAR robotic
+  application}.
+\newblock {\em Industrial Robot}, 39(5):464--474.
+
+\bibitem[Besl and McKay, 1992]{baseICP}
+Besl, P. and McKay, N.~D. (1992).
+\newblock A method for registration of 3-d shapes.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 14(2):239--256.
+
+\bibitem[Borrmann et~al., 2008]{Borrmann:2008:GCM:1342428.1342686}
+Borrmann, D., Elseberg, J., Lingemann, K., N\"{u}chter, A., and Hertzberg, J.
+  (2008).
+\newblock Globally consistent 3d mapping with scan matching.
+\newblock {\em Robot. Auton. Syst.}, 56(2):130--142.
+
+\bibitem[Broatch, 2012]{darius}
+Broatch, S. (2012).
+\newblock Darius project: Deployable sar integrated chain with unmanned
+  systems.
+\newblock In {\em International Conference on Telecommunications and
+  Multimedia}.
+
+\bibitem[Broggi et~al., 2013]{itsc2013}
+Broggi, A., Cattani, S., Patander, M., Sabbatelli, M., and Zani, P. (2013).
+\newblock {A full-3D Voxel-based Dynamic Obstacle Detection for Urban Scenario
+  using Stereo Vision}.
+\newblock In {\em Procs.~IEEE Intl.~Conf.~on Intelligent Transportation
+  Systems}, pages 71--76, The Hague, The Netherlands.
+
+\bibitem[Carpin et~al., 2007]{Carpin2007}
+Carpin, S., Lewis, M., Wang, J., Balakirsky, S., and Scrapper, C. (2007).
+\newblock Usarsim: a robot simulator for research and education.
+\newblock In {\em Robotics and Automation, 2007 IEEE International Conference
+  on}, pages 1400 --1405.
+
+\bibitem[Choe et~al., 2011]{voxels1}
+Choe, Y., Shim, I., and Chung, M.~J. (2011).
+\newblock Geometric-featured voxel maps for 3d mapping in urban environments.
+\newblock In {\em Safety, Security, and Rescue Robotics (SSRR), 2011 IEEE
+  International Symposium on}, pages 110--115.
+
+\bibitem[Conduraru et~al., 2012]{HarisPP}
+Conduraru, A., Conduraru, I., Puscalau, E., De~Cubber, G., Doroftei, D., and
+  Balta, H. (2012).
+\newblock Development of an autonomous rough-terrain robot.
+\newblock In {\em IROS2012 Workshop on Robotics for Environmental Monitoring
+  (WREM)}, Vilamoura, Algarv, Portugal.
+
+\bibitem[Damilano et~al., 2013]{JIR_GCS}
+Damilano, L., Guglieri, G., Quagliotti, F., Sale, I., and Lunghi, A. (2013).
+\newblock Ground control station embedded mission planning for uas.
+\newblock {\em Journal of Intelligent \& Robotic Systems}, 69(1-4):241--256.
+
+\bibitem[De~Cubber et~al., 2014]{bosnia1}
+De~Cubber, G., Balta, H., Doroftei, D., and Baudoin, Y. (2014).
+\newblock Uas deployment and data processing during the balkans flooding.
+\newblock In {\em 12th IEEE International Symposium on Safety, Security, and
+  Rescue Robotics (SSRR 2014)}, Toyako-cho, Hokkaido, Japan. IEEE-RAS.
+
+\bibitem[De~Cubber et~al., 2013]{ICARUS}
+De~Cubber, G., Doroftei, D., Serrano, D., Chintamani, K., Sabino, R., and
+  Ourevitch, S. (2013).
+\newblock The eu-icarus project: Developing assistive robotic tools for search
+  and rescue operations.
+\newblock In {\em Safety, Security, and Rescue Robotics (SSRR), 2013 IEEE
+  International Symposium on}, pages 1--4.
+
+\bibitem[Dias et~al., 2006]{conf/icra/DiasGPGSP06}
+Dias, P.~S., Gomes, R. M.~F., Pinto, J., Gonzalves, G.~M., de~Sousa, J.~B., and
+  Pereira, F.~L. (2006).
+\newblock Mission planning and specification in the neptus framework.
+\newblock In {\em ICRA}, pages 3220--3225. IEEE.
+
+\bibitem[Doroftei et~al., 2012]{doroftei}
+Doroftei, D., De~Cubber, G., and Chintanami, K. (2012).
+\newblock Towards collaborative human and robotic rescue workers.
+\newblock In {\em Human Friendly Robotics,}.
+
+\bibitem[Doroftei et~al., 2014]{URD}
+Doroftei, D., Matos, A., and De~Cubber, G. (2014).
+\newblock Designing search and rescue robots towards realistic user
+  requirements.
+\newblock In {\em Advanced Concepts on Mechanical Engineering (ACME)}.
+
+\bibitem[Erdos et~al., 2013]{Erdos}
+Erdos, D., Erdos, A., and Watkins, S.~E. (2013).
+\newblock An experimental uav system for search and rescue challenge.
+\newblock {\em IEEE A and E Systems Magazine}.
+
+\bibitem[Ermacora et~al., 2015]{Ermacora}
+Ermacora, G., Rosa, S., and Bona, B. (2015).
+\newblock Sliding autonomy in cloud robotics services for smart city
+  applications.
+\newblock In {\em Proceedings of the Tenth Annual ACM/IEEE International
+  Conference on Human-Robot Interaction Extended Abstracts}, HRI'15 Extended
+  Abstracts, pages 155--156, New York, NY, USA. ACM.
+
+\bibitem[Gianni et~al., 2013]{AugmMap1}
+Gianni, M., Gonnelli, G., Sinha, A., Menna, M., and Pirri, F. (2013).
+\newblock An augmented reality approach for trajectory planning and control of
+  tracked vehicles in rescue environments.
+\newblock In {\em Safety, Security, and Rescue Robotics (SSRR), 2013 IEEE
+  International Symposium on}, pages 1--6.
+
+\bibitem[Govindaraj et~al., 2013]{sgo-ssrr}
+Govindaraj, S., Chintamani, K., Gancet, J., Letier, P., van Lierde, B.,
+  Nevatia, Y., De~Cubber, G., Serrano, D., Esbri~Palomares, M., Bedkowski, J.,
+  Armbrust, C., Sanchez, J., Coelho, A., and Orbe, I. (2013).
+\newblock The icarus project - command, control and intelligence (c2i).
+\newblock In {\em Safety, Security, and Rescue Robotics (SSRR), 2013 IEEE
+  International Symposium on}.
+
+\bibitem[Hamp et~al., 2013]{journals/ar/HampGLNPHKR13}
+Hamp, Q., Gorgis, O., Labenda, P., Neumann, M., Predki, T., Heckes, L.,
+  Kleiner, A., and Reindl, L.~M. (2013).
+\newblock Study of efficiency of usar operations with assistive technologies.
+\newblock {\em Advanced Robotics}, 27(5):337--350.
+
+\bibitem[Kohlbrecher et~al., 2011]{ocmap2}
+Kohlbrecher, S., von Stryk, O., Meyer, J., and Klingauf, U. (2011).
+\newblock A flexible and scalable slam system with full 3d motion estimation.
+\newblock In {\em Safety, Security, and Rescue Robotics (SSRR), 2011 IEEE
+  International Symposium on}, pages 155--160.
+
+\bibitem[Kruijff et~al., 2012]{kruijff2012}
+Kruijff, G., Colas, F., Svoboda, T., Van~Diggelen, J., P., P.~B., Pirri, F.,
+  and Worst, R. (2012).
+\newblock Designing intelligent robots for human-robot teaming in urban search
+  and rescue.
+\newblock In {\em Proceedings of the AAAI 2012 Spring Symposium on Designing
+  Intelligent Robots}.
+
+\bibitem[Kruijff et~al., 2014]{NIFTI}
+Kruijff, G., Jan�cek, M., Keshavdas, S., Larochelle, B., Zender, H., Smets,
+  N., Mioch, T., Neerincx, M., Diggelen, J., Colas, F., Liu, M., Pomerleau, F.,
+  Siegwart, R., Hlav�c, V., Svoboda, T., Petr�cek, T., Reinstein, M.,
+  Zimmermann, K., Pirri, F., Gianni, M., Papadakis, P., Sinha, A., Balmer, P.,
+  Tomatis, N., Worst, R., Linder, T., Surmann, H., Tretyakov, V., Corrao, S.,
+  Pratzler-Wanczura, S., and Sulk, M. (2014).
+\newblock Experience in system design for human-robot teaming in urban search
+  and rescue.
+\newblock In Yoshida, K. and Tadokoro, S., editors, {\em Field and Service
+  Robotics}, volume~92 of {\em Springer Tracts in Advanced Robotics}, pages
+  111--125. Springer Berlin Heidelberg.
+
+\bibitem[Liu and Nejat, 2013]{liu}
+Liu, Y. and Nejat, G. (2013).
+\newblock Robotic urban search and rescue: A survey from the control
+  perspective.
+\newblock {\em Journal of Intelligent \& Robotic Systems}, 72(2):147--165.
+
+\bibitem[Marconi et~al., 2013]{sherpa}
+Marconi, L., Leutenegger, S., Lynen, S., Chli, M., Burri, M., Naldi, R., and
+  Melchiorri, C. (2013).
+\newblock Ground and aerial robots as an aid to alpine search and rescue:
+  Initial sherpa outcomes.
+\newblock In {\em IEEE International Workshop on Safety, Security, and Rescue
+  Robotics, (SSRR 2013)}.
+
+\bibitem[Masahiko et~al., 2009]{Nagai}
+Masahiko, N., Tianen, C., Ryosuke, S., Hideo, K., and Afzal, A. (2009).
+\newblock Uav-borne 3-d mapping system by multisensory integration.
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing},
+  47(3):701--709.
+
+\bibitem[Mine action after the floods regional synergy in emergency response,
+  technology development and capacity building, 2014]{bosnia2}
+Mine action after the floods regional synergy in emergency response, technology
+  development and capacity building (2014).
+\newblock Project Summary.
+
+\bibitem[Mobedi and Nejat, 2012]{sensor2}
+Mobedi, B. and Nejat, G. (2012).
+\newblock 3-d active sensing in time-critical urban search and rescue missions.
+\newblock {\em Mechatronics, IEEE/ASME Transactions on}, 17(6):1111--1119.
+
+\bibitem[Murphy, 2004]{murphy}
+Murphy, R. (2004).
+\newblock Trial by fire [rescue robots].
+\newblock {\em Robotics Automation Magazine, IEEE}, 11(3):50--61.
+
+\bibitem[Murphy et~al., 2008]{reference/robo/MurphyTNJFCE08}
+Murphy, R.~R., Tadokoro, S., Nardi, D., Jacoff, A., Fiorini, P., Choset, H.,
+  and Erkmen, A.~M. (2008).
+\newblock Search and rescue robotics.
+\newblock In Siciliano, B. and Khatib, O., editors, {\em Springer Handbook of
+  Robotics}, pages 1151--1173. Springer.
+
+\bibitem[Nielsen et~al., 2007]{EcoIf}
+Nielsen, C.~W., Goodrich, M.~A., and Ricks, B. (2007).
+\newblock Ecological interfaces for improving mobile robot teleoperation.
+\newblock In {\em IEEE Transactions on Robotics and Automation.}, volume~23,
+  pages 927--941.
+
+\bibitem[Nikolic et~al., 2014]{nikolic2014synchronized}
+Nikolic, J., Rehder, J., Burri, M., Gohl, P., Leutenegger, S., Furgale, P.~T.,
+  and Siegwart, R.~Y. (2014).
+\newblock {A Synchronized Visual-Inertial Sensor System with FPGA
+  Pre-Processing for Accurate Real-Time SLAM}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}.
+
+\bibitem[N\"{u}chter et~al., 2005]{Nuchter053dmapping}
+N\"{u}chter, A., Wulf, O., Lingemann, K., Hertzberg, J., Wagner, B., and
+  Surmann, H. (2005).
+\newblock 3d mapping with semantic knowledge.
+\newblock In {\em IN ROBOCUP INTERNATIONAL SYMPOSIUM}, pages 335--346.
+
+\bibitem[P.~Oettershagen, 2014]{OMLAS_MED_14}
+P.~Oettershagen, A.~Melzer, S. L. K. A. R.~S. (2014).
+\newblock Explicit model predictive control and l1-navigation strategies for
+  fixed–wing uav path tracking.
+\newblock In {\em 22nd IEEE Mediterranean Control Conference (MED)}, Palermo,
+  Italy.
+
+\bibitem[Pellenz et~al., 2010]{DisasterCity}
+Pellenz, J., Neuhaus, F., Dillenberger, D., and Lang, D. (2010).
+\newblock Website (http://kos.informatik.uni-osnabrueck.de/3dscans/) last
+  accessed on 06/11/014.
+
+\bibitem[Pfaff et~al., 2007]{Pfaff:2007:EEE:1229565.1229570}
+Pfaff, P., Triebel, R., and Burgard, W. (2007).
+\newblock An efficient extension to elevation maps for outdoor terrain mapping
+  and loop closing.
+\newblock {\em Int. J. Rob. Res.}, 26(2):217--230.
+
+\bibitem[{Pix4D}, 2014]{Pix4Dsite}
+{Pix4D} (available 2014).
+\newblock {http://pix4d.com/}.
+
+\bibitem[{PIXHAWK Autopilot Research Project}, 2014]{PIXHAWKSite}
+{PIXHAWK Autopilot Research Project} (available 2014).
+\newblock {https://pixhawk.ethz.ch/}.
+
+\bibitem[Reid et~al., 2013]{ocmap1}
+Reid, R., Cann, A., Meiklejohn, C., Poli, L., Boeing, A., and Braunl, T.
+  (2013).
+\newblock Cooperative multi-robot navigation, exploration, mapping and object
+  detection with ros.
+\newblock In {\em Intelligent Vehicles Symposium (IV), 2013 IEEE}, pages
+  1083--1088.
+
+\bibitem[S.~Leutenegger, 2014]{LMAS_MSC_14}
+S.~Leutenegger, A.~Melzer, K. A. R.~S. (2014).
+\newblock Robust state estimation for small unmanned airplanes.
+\newblock In {\em IEEE Multiconference on Systems and Control (MSC)}, Antibes,
+  France.
+
+\bibitem[Saez-Pons et~al., 2010]{guardians}
+Saez-Pons, J., Alboul, L., Penders, J., and Nomdedeu, L. (2010).
+\newblock Multi-robot team formation control in the guardians project.
+\newblock {\em Industrial Robot}, 37(4):372--383.
+
+\bibitem[Segal et~al., 2009]{Segal-RSS-09}
+Segal, A., Haehnel, D., and Thrun, S. (2009).
+\newblock {G}eneralized-{I}{C}{P}.
+\newblock In {\em Proceedings of Robotics: Science and Systems}, pages 1--8,
+  Seattle, USA.
+
+\bibitem[Serrano, 2015a]{serrano_jaus}
+Serrano, D. (2015a).
+\newblock Introduction to jaus for unmanned systems interoperability.
+\newblock Technical report.
+
+\bibitem[Serrano, 2015b]{serrano_interoperability}
+Serrano, D. (2015b).
+\newblock Key initiatives for interoperability through standardization.
+  applicability to small unmanned vehicles.
+\newblock Technical report.
+
+\bibitem[{Skybotix AG}, 2014]{SkybotixSite}
+{Skybotix AG} (available 2014).
+\newblock {http://www.skybotix.com/}.
+
+\bibitem[telerob GmbH, EOD Robot tEODor - Product Description, 2014]{EODTeodor}
+telerob GmbH, EOD Robot tEODor - Product Description (available 2014).
+\newblock Retrieved June 13, 2014, from
+  http://www.xtek.net/assets/Uploads/Sectors/EOD/TEODOR.pdf.
+
+\bibitem[Tomic et~al., 2012]{tomic}
+Tomic, T., Schmid, K., Lutz, P., Domel, A., Kassecker, M., Mair, E., Grixa, I.,
+  Ruess, F., Suppa, M., and Burschka, D. (2012).
+\newblock Toward a fully autonomous uav: Research platform for indoor and
+  outdoor urban search and rescue.
+\newblock volume~19, pages 46--56. IEEE.
+
+\bibitem[Tran et~al., 2013]{canine}
+Tran, J., Ufkes, A., Ferworn, A., and Fiala, M. (2013).
+\newblock 3d disaster scene reconstruction using a canine-mounted rgb-d sensor.
+\newblock In {\em Computer and Robot Vision (CRV), 2013 International
+  Conference on}, pages 23--28.
+
+\bibitem[Yvinec et~al., 2012]{tiramisu}
+Yvinec, Y., Baudoin, Y., De~Cubber, G., Armada, M., Marques, L., Desaulniers,
+  J.-M., and Bajic, M. (2012).
+\newblock Tiramisu : Fp7-project for an integrated toolbox in humanitarian
+  demining.
+\newblock In {\em GICHD Technology Workshop}.
+
+\bibitem[Zask and Dailey, 2009]{isosurface}
+Zask, R. and Dailey, M. (2009).
+\newblock Rapid 3d visualization of indoor scenes using 3d occupancy grid
+  isosurfaces.
+\newblock In {\em Electrical Engineering/Electronics, Computer,
+  Telecommunications and Information Technology, 2009. ECTI-CON 2009. 6th
+  International Conference on}, volume~02, pages 672--675.
+
+\bibitem[Zhang et~al., 2013]{RIM}
+Zhang, Z., Liu, A., Gao, Z., and Liu, C. (2013).
+\newblock A kinect-based 3d sensing and human action recognition solution for
+  urban search and rescue environments.
+\newblock In {\em RO-MAN, 2013 IEEE}, pages 344--345.
+
+\bibitem[Zhang et~al., 2011]{method1}
+Zhang, Z., Nejat, G., Guo, H., and Huang, P. (2011).
+\newblock A novel 3d sensory system for robot-assisted mapping of cluttered
+  urban search and rescue environments.
+\newblock {\em Intelligent Service Robotics}, 4(2):119--134.
+
+\end{thebibliography}

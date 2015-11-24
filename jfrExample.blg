@@ -1,0 +1,41 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: jfrExample.aux
+The style file: apalike.bst
+Database file #1: jfrExampleRefs.bib
+Warning--entry type for "disastercity" isn't style-file defined
+--line 613 of file jfrExampleRefs.bib
+Warning--entry type for "eurathlon" isn't style-file defined
+--line 862 of file jfrExampleRefs.bib
+Warning--entry type for "b-fast" isn't style-file defined
+--line 870 of file jfrExampleRefs.bib
+A bad cross reference---entry "conf/icra/DiasGPGSP06"
+refers to entry "conf/icra/2006", which doesn't exist
+A bad cross reference---entry "reference/robo/MurphyTNJFCE08"
+refers to entry "reference/robo/2008", which doesn't exist
+Warning--I didn't find a database entry for "conf/icra/2006"
+Warning--I didn't find a database entry for "reference/robo/2008"
+Warning--to sort, need author or key in eurathlon
+Warning--to sort, need author or key in b-fast
+Too many commas in name 1 of "S. Leutenegger, A. Melzer, K. Alexis, R. Siegwart" for entry LMAS_MSC_14
+while executing---line 1019 of file apalike.bst
+Too many commas in name 1 of "S. Leutenegger, A. Melzer, K. Alexis, R. Siegwart" for entry LMAS_MSC_14
+while executing---line 1019 of file apalike.bst
+Too many commas in name 1 of "P. Oettershagen, A. Melzer, S. Leutenegger, K. Alexis, R. Siegwart" for entry OMLAS_MED_14
+while executing---line 1019 of file apalike.bst
+Too many commas in name 1 of "P. Oettershagen, A. Melzer, S. Leutenegger, K. Alexis, R. Siegwart" for entry OMLAS_MED_14
+while executing---line 1019 of file apalike.bst
+Too many commas in name 1 of "P. Oettershagen, A. Melzer, S. Leutenegger, K. Alexis, R. Siegwart" for entry OMLAS_MED_14
+while executing---line 1019 of file apalike.bst
+Too many commas in name 1 of "P. Oettershagen, A. Melzer, S. Leutenegger, K. Alexis, R. Siegwart" for entry OMLAS_MED_14
+while executing---line 1019 of file apalike.bst
+Warning--can't use both volume and number fields in EcoIf
+Too many commas in name 1 of "P. Oettershagen, A. Melzer, S. Leutenegger, K. Alexis, R. Siegwart" for entry OMLAS_MED_14
+while executing---line 1094 of file apalike.bst
+Too many commas in name 1 of "P. Oettershagen, A. Melzer, S. Leutenegger, K. Alexis, R. Siegwart" for entry OMLAS_MED_14
+while executing---line 1094 of file apalike.bst
+Too many commas in name 1 of "S. Leutenegger, A. Melzer, K. Alexis, R. Siegwart" for entry LMAS_MSC_14
+while executing---line 1094 of file apalike.bst
+Warning--empty institution in serrano_jaus
+Warning--empty institution in serrano_interoperability
+Warning--empty booktitle in tomic
+Warning--can't use both volume and number fields in tomic
+(There were 11 error messages)

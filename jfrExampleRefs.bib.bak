@@ -1,0 +1,857 @@
+% This file was created with JabRef 2.8.1.
+% Encoding: Cp1252
+
+@INPROCEEDINGS{conf/icra/DiasGPGSP06,
+  author = {Dias, Paulo Sousa and Gomes, Rui M. F. and Pinto, Jose and Gonzalves,
+	Gil Manuel and de Sousa, Joso Borges and Pereira, Fernando Lobo},
+  title = {Mission Planning and Specification in the Neptus Framework.},
+  booktitle = {ICRA},
+  year = {2006},
+  pages = {3220-3225},
+  publisher = {IEEE},
+  added-at = {2013-02-20T00:00:00.000+0100},
+  biburl = {http://www.bibsonomy.org/bibtex/274e89c196d39da483faade850af3b56e/dblp},
+  crossref = {conf/icra/2006},
+  ee = {http://dx.doi.org/10.1109/ROBOT.2006.1642192},
+  interhash = {a9496a93e7e66e1fc710d40243aff65d},
+  intrahash = {74e89c196d39da483faade850af3b56e},
+  keywords = {dblp},
+  timestamp = {2013-02-20T00:00:00.000+0100},
+  url = {http://dblp.uni-trier.de/db/conf/icra/icra2006.html#DiasGPGSP06}
+}
+
+@INCOLLECTION{reference/robo/MurphyTNJFCE08,
+  author = {Murphy, Robin R. and Tadokoro, Satoshi and Nardi, Daniele and Jacoff,
+	Adam and Fiorini, Paolo and Choset, Howie and Erkmen, Aydan M.},
+  title = {Search and Rescue Robotics.},
+  booktitle = {Springer Handbook of Robotics},
+  publisher = {Springer},
+  year = {2008},
+  editor = {Siciliano, Bruno and Khatib, Oussama},
+  pages = {1151-1173},
+  added-at = {2008-09-18T00:00:00.000+0200},
+  biburl = {http://www.bibsonomy.org/bibtex/2bffcd910af598468aed1f758078a15c8/dblp},
+  crossref = {reference/robo/2008},
+  date = {2008-09-18},
+  description = {dblp},
+  ee = {http://dx.doi.org/10.1007/978-3-540-30301-5_51},
+  interhash = {1e2aa5aa913b0f9698ed96d67b4905f3},
+  intrahash = {bffcd910af598468aed1f758078a15c8},
+  isbn = {978-3-540-23957-4},
+  keywords = {dblp},
+  timestamp = {2008-09-18T00:00:00.000+0200},
+  url = {http://dblp.uni-trier.de/db/reference/robo/robo2008.html#MurphyTNJFCE08}
+}
+
+@MISC{AtlantikSolarSite,
+  author = {{AtlantikSolar: A UAV for the first-ever autonomous solar--powered
+	crossing of the Atlantic Ocean}},
+  title = {{http://www.atlantiksolar.ethz.ch/}},
+  year = {available 2014}
+}
+
+@INPROCEEDINGS{Haris2,
+  author = {Balta, H. and De Cubber, G. and Doroftei, D. and Baudoin, Y. and
+	Sahli, H.},
+  title = {Terrain Traversability Analysis for off-road robots using Time-Of-Flight
+	3D Sensing},
+  booktitle = {7th IARP International Workshop on Robotics for Risky Environment
+	- Extreme Robotics},
+  year = {2013},
+  address = {Saint-Petersburg, Russia},
+  month = {October}
+}
+
+@INPROCEEDINGS{viewfinder,
+  author = {Baudoin, Yvan and Doroftei, Daniela and De Cubber, Geert and Berrabah,
+	Sid Ahmed and Pinzon, Carlos and Warlet, Fabrice and Gancet, Jeremy
+	and Motard, Elvina and Ilzkovitz, Michel and Nalpantidis, Lazaros
+	and Gasteratos, Antonis},
+  title = {View-Finder: Robotics Assistance to Fire-Fighting Services and Crisis
+	Management},
+  booktitle = {IEEE International Workshop on Safety, Security, and Rescue Robotics,
+	(SSRR 2009)},
+  year = {2009},
+  month = nov,
+  location = {Denver, Colorado, USA}
+}
+
+@BOOK{baxter,
+  title = {Example references of books with one author},
+  publisher = {New York: Random House},
+  year = {1997},
+  author = {Claire Baxter}
+}
+
+@ARTICLE{nuechter2013e,
+  author = {J. Bedkowski and K. Majek and A. N{\"u}chter},
+  title = {{General Purpose Computing on Graphics Processing Units for Robotic
+	Applications}},
+  journal = {Journal of Software Engineering for Robotics (JOSER)},
+  year = {2013},
+  volume = {4},
+  pages = {23--33},
+  number = {1}
+}
+
+@ARTICLE{Bedkowski2012,
+  author = {Bedkowski, J. and Maslowski, A. and de Cubber, G.},
+  title = {{Real time 3{D} localization and mapping for USAR robotic application}},
+  journal = {Industrial Robot},
+  year = {2012},
+  volume = {39},
+  pages = {464--474},
+  number = {5},
+  issn = {0143-991X},
+  numpages = {11}
+}
+
+@ARTICLE{baseICP,
+  author = {Besl, P.J. and McKay, Neil D.},
+  title = {A method for registration of 3-D shapes},
+  journal = {Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  year = {1992},
+  volume = {14},
+  pages = {239-256},
+  number = {2},
+  month = {Feb},
+  doi = {10.1109/34.121791},
+  issn = {0162-8828},
+  keywords = {computational geometry;convergence of numerical methods;iterative
+	methods;optimisation;pattern recognition;picture processing;3D shape
+	registration;convergence;geometric entity;geometric model;iterative
+	closest point;mean-square distance metric;pattern recognition;point
+	set registration;Convergence;Inspection;Iterative algorithms;Iterative
+	closest point algorithm;Iterative methods;Motion estimation;Quaternions;Shape
+	measurement;Solid modeling;Testing}
+}
+
+@ARTICLE{Borrmann:2008:GCM:1342428.1342686,
+  author = {Borrmann, Dorit and Elseberg, Jan and Lingemann, Kai and N\"{u}chter,
+	Andreas and Hertzberg, Joachim},
+  title = {Globally Consistent 3D Mapping with Scan Matching},
+  journal = {Robot. Auton. Syst.},
+  year = {2008},
+  volume = {56},
+  pages = {130--142},
+  number = {2},
+  month = feb,
+  acmid = {1342686},
+  address = {Amsterdam, The Netherlands, The Netherlands},
+  doi = {10.1016/j.robot.2007.07.002},
+  issn = {0921-8890},
+  issue_date = {February, 2008},
+  keywords = {6D SLAM, GraphSLAM, Scan matching, Simultaneous localization and mapping
+	(SLAM)},
+  numpages = {13},
+  publisher = {North-Holland Publishing Co.},
+  url = {http://dx.doi.org/10.1016/j.robot.2007.07.002}
+}
+
+@INPROCEEDINGS{darius,
+  author = {Broatch, Stephen},
+  title = {DARIUS Project: Deployable SAR Integrated Chain with Unmanned Systems},
+  booktitle = {International Conference on Telecommunications and Multimedia},
+  year = {2012},
+  location = {Herakleion Crete, Greece}
+}
+
+@INPROCEEDINGS{itsc2013,
+  author = {Alberto Broggi AND Stefano Cattani AND Marco Patander AND Mario Sabbatelli
+	AND Paolo Zani},
+  title = {{A full-3D Voxel-based Dynamic Obstacle Detection for Urban Scenario
+	using Stereo Vision}},
+  booktitle = {Procs.~IEEE Intl.~Conf.~on Intelligent Transportation Systems},
+  year = {2013},
+  pages = {71--76},
+  address = {The Hague, The Netherlands},
+  month = oct
+}
+
+@INPROCEEDINGS{Carpin2007,
+  author = {Carpin, S. and Lewis, M. and Wang, Jijun and Balakirsky, S. and Scrapper,
+	C.},
+  title = {USARSim: a robot simulator for research and education},
+  booktitle = {Robotics and Automation, 2007 IEEE International Conference on},
+  year = {2007},
+  pages = {1400 -1405},
+  month = {april},
+  abstract = {This paper presents USARSim, an open source high fidelity robot simulator
+	that can be used both for research and education. USARSim offers
+	many characteristics that differentiate it from most existing simulators.
+	Most notably, it constitutes the simulation engine used to run the
+	virtual robots competition within the Robocup initiative. We describe
+	its general architecture, describe examples of utilization, and provide
+	a comprehensive overview for those interested in robot simulations
+	for education, research and competitions.},
+  added-at = {2012-08-10T11:54:25.000+0200},
+  biburl = {http://www.bibsonomy.org/bibtex/236f8e11a89fdbf67d9526a34faf4d426/beaelp},
+  description = {IEEE Xplore - USARSim: a robot simulator for research and education},
+  doi = {10.1109/ROBOT.2007.363180},
+  interhash = {65f50d2bff173a9e929ca2091c6bbdcf},
+  intrahash = {36f8e11a89fdbf67d9526a34faf4d426},
+  issn = {1050-4729},
+  keywords = {simulators},
+  timestamp = {2012-08-10T11:54:25.000+0200},
+  url = {http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4209284&tag=1}
+}
+
+@ARTICLE{baldwin,
+  author = {Charles Baldwin, and Caleb Bevan, and Aaron Beshalske},
+  title = {Example of journal article reference},
+  journal = {Journal of Reference Examples},
+  year = {2000},
+  volume = {141},
+  pages = {171--177}
+}
+
+@INPROCEEDINGS{voxels1,
+  author = {Yungeun Choe and Inwook Shim and Myung Jin Chung},
+  title = {Geometric-featured voxel maps for 3D mapping in urban environments},
+  booktitle = {Safety, Security, and Rescue Robotics (SSRR), 2011 IEEE International
+	Symposium on},
+  year = {2011},
+  pages = {110-115},
+  month = {Nov},
+  doi = {10.1109/SSRR.2011.6106760},
+  keywords = {computational geometry;data visualisation;image colour analysis;service
+	robots;statistical analysis;terrain mapping;3D mapping algorithm;3D
+	maps;computation time;feature performance;geometric features;geometric-featured
+	voxel maps;human operator;local point cloud statistics;memory consumption;memory
+	requirements;operating rescue robots;point clouds;principal characteristics;range
+	sensors;rescue scenarios;robots surroundings;terrain information;urban
+	environments;urban structures;visualization method;voxel edges;voxel
+	faces;Computational modeling;Roads;Robot kinematics;Robot sensing
+	systems;Solid modeling;Three dimensional displays;3D Mapping;Geometric
+	Feature;Range Sensor;Rescue Robotics;Urban Environments;Voxel}
+}
+
+@INPROCEEDINGS{HarisPP,
+  author = {Conduraru, A. and Conduraru, I and Puscalau, E. and De Cubber, G.
+	and Doroftei, D. and Balta, H.},
+  title = {Development of an autonomous rough-terrain robot},
+  booktitle = {IROS2012 Workshop on Robotics for Environmental Monitoring (WREM)},
+  year = {2012},
+  address = {Vilamoura, Algarv, Portugal},
+  month = {October}
+}
+
+@ARTICLE{JIR_GCS,
+  author = {Damilano, Luca and Guglieri, Giorgio and Quagliotti, Fulvia and Sale,
+	Ilaria and Lunghi, Alessio},
+  title = {Ground Control Station Embedded Mission Planning for UAS},
+  journal = {Journal of Intelligent \& Robotic Systems},
+  year = {2013},
+  volume = {69},
+  pages = {241-256},
+  number = {1-4},
+  doi = {10.1007/s10846-012-9697-2},
+  issn = {0921-0296},
+  keywords = {Mission plan; Route creation/validation algorithms; STANAG 4586},
+  language = {English},
+  publisher = {Springer Netherlands},
+  url = {http://dx.doi.org/10.1007/s10846-012-9697-2}
+}
+
+@INPROCEEDINGS{ICARUS,
+  author = {De Cubber, G. and Doroftei, D. and Serrano, D. and Chintamani, K.
+	and Sabino, R. and Ourevitch, S.},
+  title = {The EU-ICARUS project: Developing assistive robotic tools for search
+	and rescue operations},
+  booktitle = {Safety, Security, and Rescue Robotics (SSRR), 2013 IEEE International
+	Symposium on},
+  year = {2013},
+  pages = {1-4},
+  month = {Oct},
+  doi = {10.1109/SSRR.2013.6719323},
+  keywords = {ad hoc networks;autonomous aerial vehicles;cognitive radio;command
+	and control systems;human-robot interaction;image sensors;marine
+	vehicles;object detection;rescue robots;robot vision;C4I equipment;ICARUS
+	EU-FP7 project;ICARUS tools;ad-hoc cognitive radio networking;assistive
+	robotic tools development;assistive unmanned air vehicles;assistive
+	unmanned ground vehicles;assistive unmanned sea vehicles;command-control-communications-computers-and-intelligence
+	equipment;human-robot collaboration;life-saving task;search-and-rescue
+	operations;victim detection sensors;Cameras;Command and control systems;Robot
+	kinematics;Robot sensing systems;Vehicles}
+}
+
+@INPROCEEDINGS{doroftei,
+  author = {Doroftei, D. and De Cubber, G. and Chintanami, K.},
+  title = {Towards collaborative human and robotic rescue workers},
+  booktitle = {Human Friendly Robotics,},
+  year = {2012}
+}
+
+@INPROCEEDINGS{URD,
+  author = {Doroftei, Daniela and Matos, Anibal and De Cubber, Geert},
+  title = {Designing Search and Rescue Robots towards Realistic User Requirements},
+  booktitle = {Advanced Concepts on Mechanical Engineering (ACME)},
+  year = {2014},
+  month = {June},
+  owner = {gdcubber},
+  timestamp = {2014.11.06}
+}
+
+@ARTICLE{Erdos,
+  author = {Erdos, David and Erdos, Abraham and Watkins, Steve E.},
+  title = {An Experimental UAV System for Search and Rescue Challenge},
+  journal = {IEEE A and E Systems Magazine},
+  year = {2013},
+  month = {may}
+}
+
+@INPROCEEDINGS{Ermacora,
+  author = {Ermacora, Gabriele and Rosa, Stefano and Bona, Basilio},
+  title = {Sliding Autonomy in Cloud Robotics Services for Smart City Applications},
+  booktitle = {Proceedings of the Tenth Annual ACM/IEEE International Conference
+	on Human-Robot Interaction Extended Abstracts},
+  year = {2015},
+  series = {HRI'15 Extended Abstracts},
+  pages = {155--156},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2701991},
+  doi = {10.1145/2701973.2701991},
+  isbn = {978-1-4503-3318-4},
+  keywords = {UAV, cloud robotics, mixed initiative, mixed reality, shared knowledge,
+	sliding autonomy, smart city},
+  location = {Portland, Oregon, USA},
+  numpages = {2},
+  url = {http://doi.acm.org/10.1145/2701973.2701991}
+}
+
+@INPROCEEDINGS{AugmMap1,
+  author = {Gianni, M. and Gonnelli, G. and Sinha, A. and Menna, M. and Pirri,
+	F.},
+  title = {An Augmented Reality approach for trajectory planning and control
+	of tracked vehicles in rescue environments},
+  booktitle = {Safety, Security, and Rescue Robotics (SSRR), 2013 IEEE International
+	Symposium on},
+  year = {2013},
+  pages = {1-6},
+  month = {Oct},
+  doi = {10.1109/SSRR.2013.6719360},
+  keywords = {SLAM (robots);augmented reality;mobile robots;path planning;pose estimation;tracked
+	vehicles;tracking;trajectory control;3D map;3D movements;3D path
+	planning;AR-based interface;ICP-based SLAM;augmented reality;autonomous
+	robot navigation;dead reckoning system;human operator;localization
+	system;marker pen;obstacle negotiation;planning framework;pose estimation;position
+	feedback;rescue environments;tracked vehicles;trajectory planning;trajectory
+	tracking controller;Planning;Robot kinematics;Three-dimensional displays;Tracking;Trajectory;Vehicles;Augmented
+	Reality;Rescue Robotics;Trajectory control;Trajectory tracking;Unmanned
+	Ground Vehicles;Urban Search}
+}
+
+@INPROCEEDINGS{sgo-ssrr,
+  author = {Govindaraj, S. and Chintamani, K. and Gancet, J. and Letier, P. and
+	van Lierde, B. and Nevatia, Y. and De Cubber, G. and Serrano, D.
+	and Esbri Palomares, M. and Bedkowski, J. and Armbrust, C. and Sanchez,
+	J. and Coelho, A. and Orbe, I.},
+  title = {The ICARUS project - Command, Control and Intelligence (C2I)},
+  booktitle = {Safety, Security, and Rescue Robotics (SSRR), 2013 IEEE International
+	Symposium on},
+  year = {2013},
+  month = {Oct}
+}
+
+@ARTICLE{journals/ar/HampGLNPHKR13,
+  author = {Hamp, Quirin and Gorgis, Omar and Labenda, Patrick and Neumann, Marc
+	and Predki, Thomas and Heckes, Leif and Kleiner, Alexander and Reindl,
+	Leonhard M.},
+  title = {Study of efficiency of USAR operations with assistive technologies.},
+  journal = {Advanced Robotics},
+  year = {2013},
+  volume = {27},
+  pages = {337-350},
+  number = {5},
+  added-at = {2013-05-03T00:00:00.000+0200},
+  biburl = {http://www.bibsonomy.org/bibtex/27f5b02c4eb881187952377cab4ee0cd2/dblp},
+  ee = {http://dx.doi.org/10.1080/01691864.2013.763723},
+  interhash = {2c6db5445f45bcdcad485678bb29ff85},
+  intrahash = {7f5b02c4eb881187952377cab4ee0cd2},
+  keywords = {dblp},
+  timestamp = {2013-05-03T00:00:00.000+0200},
+  url = {http://dblp.uni-trier.de/db/journals/ar/ar27.html#HampGLNPHKR13}
+}
+
+@INPROCEEDINGS{ocmap2,
+  author = {Kohlbrecher, S. and von Stryk, O. and Meyer, J. and Klingauf, U.},
+  title = {A flexible and scalable SLAM system with full 3D motion estimation},
+  booktitle = {Safety, Security, and Rescue Robotics (SSRR), 2011 IEEE International
+	Symposium on},
+  year = {2011},
+  pages = {155-160},
+  month = {Nov},
+  doi = {10.1109/SSRR.2011.6106777},
+  keywords = {SLAM (robots);motion estimation;optical radar;3D attitude estimation
+	system;LIDAR system;full 3D motion estimation;inertial sensing;map
+	gradients;occupancy grid maps;online learning;robust scan matching
+	approach;scalable SLAM system;unknown environments;urban search and
+	rescue scenario;Equations;Laser radar;Navigation;Simultaneous localization
+	and mapping;Three dimensional displays;Inertial Navigation;Robust
+	and Fast Localization;Simultaneous Localization and Mapping}
+}
+
+@INPROCEEDINGS{kruijff2012,
+  author = { Kruijff, G. and Colas, F. and Svoboda, T. and Van Diggelen, J. and
+	P. Balmer P. and Pirri, F. and Worst, R.},
+  title = {Designing intelligent robots for human-robot teaming in urban search
+	and rescue},
+  booktitle = {Proceedings of the AAAI 2012 Spring Symposium on Designing Intelligent
+	Robots},
+  year = {2012}
+}
+
+@INCOLLECTION{NIFTI,
+  author = {Kruijff, G.J.M. and Jan�cek, M. and Keshavdas, S. and Larochelle,
+	B. and Zender, H. and Smets, N.J.J.M. and Mioch, T. and Neerincx,
+	M.A. and Diggelen, J.V. and Colas, F. and Liu, M. and Pomerleau,
+	F. and Siegwart, R. and Hlav�c, V. and Svoboda, T. and Petr�cek,
+	T. and Reinstein, M. and Zimmermann, K. and Pirri, F. and Gianni,
+	M. and Papadakis, P. and Sinha, A. and Balmer, P. and Tomatis, N.
+	and Worst, R. and Linder, T. and Surmann, H. and Tretyakov, V. and
+	Corrao, S. and Pratzler-Wanczura, S. and Sulk, M.},
+  title = {Experience in System Design for Human-Robot Teaming in Urban Search
+	and Rescue},
+  booktitle = {Field and Service Robotics},
+  publisher = {Springer Berlin Heidelberg},
+  year = {2014},
+  editor = {Yoshida, Kazuya and Tadokoro, Satoshi},
+  volume = {92},
+  series = {Springer Tracts in Advanced Robotics},
+  pages = {111-125},
+  doi = {10.1007/978-3-642-40686-7_8},
+  isbn = {978-3-642-40685-0},
+  language = {English},
+  url = {http://dx.doi.org/10.1007/978-3-642-40686-7_8}
+}
+
+@ARTICLE{liu,
+  author = {Liu, Yugang and Nejat, Goldie},
+  title = {Robotic Urban Search and Rescue: A Survey from the Control Perspective},
+  journal = {Journal of Intelligent \& Robotic Systems},
+  year = {2013},
+  volume = {72},
+  pages = {147-165},
+  number = {2},
+  doi = {10.1007/s10846-013-9822-x},
+  issn = {0921-0296},
+  keywords = {Urban search and rescue; Rescue robots; Robot autonomy; SLAM; Semi-autonomous
+	control; Multi-robot control},
+  language = {English},
+  publisher = {Springer Netherlands},
+  url = {http://dx.doi.org/10.1007/s10846-013-9822-x}
+}
+
+@INPROCEEDINGS{sherpa,
+  author = {Marconi, L. and Leutenegger, S and Lynen, S. and Chli, M. and Burri,
+	M. and Naldi, R. and Melchiorri, C.},
+  title = {Ground and Aerial Robots as an Aid to Alpine Search and Rescue: Initial
+	SHERPA Outcomes},
+  booktitle = {IEEE International Workshop on Safety, Security, and Rescue Robotics,
+	(SSRR 2013)},
+  year = {2013},
+  location = {Linkoping, Sweden}
+}
+
+@ARTICLE{Nagai,
+  author = {Masahiko, Nagai and Tianen, Chen and Ryosuke, Shibasaki and Hideo,
+	Kumagai and Afzal, Ahmed},
+  title = {UAV-Borne 3-D Mapping System by Multisensory Integration},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  year = {2009},
+  volume = {47},
+  pages = {701--709},
+  number = {3},
+  month = {march},
+  publisher = {IEEE}
+}
+
+@ARTICLE{sensor2,
+  author = {Mobedi, B. and Nejat, G.},
+  title = {3-D Active Sensing in Time-Critical Urban Search and Rescue Missions},
+  journal = {Mechatronics, IEEE/ASME Transactions on},
+  year = {2012},
+  volume = {17},
+  pages = {1111-1119},
+  number = {6},
+  month = {Dec},
+  doi = {10.1109/TMECH.2011.2159388},
+  issn = {1083-4435},
+  keywords = {disasters;image resolution;mobile robots;robot vision;service robots;3D
+	map development;cluttered scene;high-resolution 2D information;high-resolution
+	3D information;mobile robots;rescue workers;robust active 3D sensory
+	system;rubble piles;survivor search;time-critical robotic urban search-and-rescue
+	missions;unknown cluttered environment mapping;urban disaster environments;victim
+	location determination;Disaster management;Real time systems;Robot
+	sensing systems;Three dimensional displays;Urban areas;3-D active
+	sensory system;Rescue robotics;structured light sensing;urban search
+	and rescue}
+}
+
+@INPROCEEDINGS{sensor1,
+  author = {Mobedi, B. and Nejat, G.},
+  title = {An active light sensory system for 3D mapping of unknown cluttered
+	environments},
+  booktitle = {Automation Science and Engineering (CASE), 2010 IEEE Conference on},
+  year = {2010},
+  pages = {954-959},
+  month = {Aug},
+  doi = {10.1109/COASE.2010.5584572},
+  keywords = {SLAM (robots);emergency services;mobile robots;3D mapping;active light
+	sensory system;rescue operations;robotic search;unknown cluttered
+	environments;urban search and rescue missions;Cameras;Image color
+	analysis;Pixel;Real time systems;Robot sensing systems;Three dimensional
+	displays}
+}
+
+@ARTICLE{murphy,
+  author = {Murphy, R.R.},
+  title = {Trial by fire [rescue robots]},
+  journal = {Robotics Automation Magazine, IEEE},
+  year = {2004},
+  volume = {11},
+  pages = {50-61},
+  number = {3},
+  month = {Sept},
+  doi = {10.1109/MRA.2004.1337826},
+  issn = {1070-9932},
+  keywords = {emergency services;mobile robots;telerobotics;Center for Robot-Assisted
+	Search and Rescue;University of South Florida;World Trade Center
+	disaster;human-robot system;rescue robotics;robot performance;urban
+	search and rescue;Communication system control;Control systems;Fires;Mobile
+	robots;Orbital robotics;Robot kinematics;Robot sensing systems;Robotics
+	and automation;Sensor systems;Space technology}
+}
+
+@INPROCEEDINGS{Nuchter053dmapping,
+  author = {Andreas N\"{u}chter and Oliver Wulf and Kai Lingemann and Joachim
+	Hertzberg and Bernado Wagner and Hartmut Surmann},
+  title = {3D Mapping with Semantic Knowledge},
+  booktitle = {IN ROBOCUP INTERNATIONAL SYMPOSIUM},
+  year = {2005},
+  pages = {335--346}
+}
+
+@CONFERENCE{binh,
+  author = {Nan Binh, and Caleb McCue, and Kevin O'Brien},
+  title = {Example conference paper reference},
+  booktitle = {Proceedings of National Reference Example Convention},
+  year = {1998},
+  address = {Pittsburgh, PA}
+}
+
+@CONFERENCE{NanBinh1998,
+  author = {Nan Binh, and Caleb McCue, and Kevin O'Brien},
+  title = {Example conference paper reference},
+  booktitle = {Proceedings of National Reference Example Convention},
+  year = {1998},
+  address = {Pittsburgh, PA}
+}
+
+@INPROCEEDINGS{EcoIf,
+  author = {C. W. Nielsen AND M. A. Goodrich AND B. Ricks},
+  title = {Ecological Interfaces for Improving Mobile Robot Teleoperation.},
+  booktitle = {IEEE Transactions on Robotics and Automation.},
+  year = {2007},
+  volume = {23},
+  number = {5},
+  pages = {927-941},
+  month = {Oct}
+}
+
+@CONFERENCE{nikolic2014synchronized,
+  author = {Nikolic, Janosch and Rehder, Joern and Burri, Michael and Gohl, Pascal
+	and Leutenegger, Stefan and Furgale, Paul T and Siegwart, Roland
+	Yves},
+  title = {{A Synchronized Visual-Inertial Sensor System with FPGA Pre-Processing
+	for Accurate Real-Time SLAM}},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year = {2014}
+}
+
+@MISC{oceansys,
+  author = {Oceansys},
+  title = {http://oceansys.fe.up.pt/},
+  year = {available 2014}
+}
+
+@CONFERENCE{OMLAS_MED_14,
+  author = {P. Oettershagen, A. Melzer, S. Leutenegger, K. Alexis, R. Siegwart
+	},
+  title = {Explicit Model Predictive Control and L1-Navigation Strategies for
+	Fixed–Wing UAV Path Tracking},
+  booktitle = {22nd IEEE Mediterranean Control Conference (MED)},
+  year = {2014},
+  address = {Palermo, Italy}
+}
+
+@ELECTRONIC{disastercity,
+  author = {Pellenz, Johannes and Neuhaus, Frank and Dillenberger, Denis and
+	Lang, Dagmar},
+  month = {March},
+  year = {2010},
+  title = {Website (http://kos.informatik.uni-osnabrueck.de/3Dscans/) last accessed
+	on 06/11/014},
+  url = {http://kos.informatik.uni-osnabrueck.de/3Dscans/},
+  owner = {gdcubber},
+  timestamp = {2014.11.06}
+}
+
+@ARTICLE{Pfaff:2007:EEE:1229565.1229570,
+  author = {Pfaff, Patrick and Triebel, Rudolph and Burgard, Wolfram},
+  title = {An Efficient Extension to Elevation Maps for Outdoor Terrain Mapping
+	and Loop Closing},
+  journal = {Int. J. Rob. Res.},
+  year = {2007},
+  volume = {26},
+  pages = {217--230},
+  number = {2},
+  month = feb,
+  acmid = {1229570},
+  address = {Thousand Oaks, CA, USA},
+  doi = {10.1177/0278364906075165},
+  issn = {0278-3649},
+  issue_date = {February 2007},
+  keywords = {SLAM, elevation maps, outdoor robots, surface maps},
+  numpages = {14},
+  publisher = {Sage Publications, Inc.},
+  url = {http://dx.doi.org/10.1177/0278364906075165}
+}
+
+@MISC{Pix4Dsite,
+  author = {{Pix4D}},
+  title = {{http://pix4d.com/}},
+  year = {available 2014}
+}
+
+@MISC{PIXHAWKSite,
+  author = {{PIXHAWK Autopilot Research Project}},
+  title = {{https://pixhawk.ethz.ch/}},
+  year = {available 2014}
+}
+
+@INPROCEEDINGS{ocmap1,
+  author = {Reid, R. and Cann, A. and Meiklejohn, C. and Poli, L. and Boeing,
+	A. and Braunl, T.},
+  title = {Cooperative multi-robot navigation, exploration, mapping and object
+	detection with ROS},
+  booktitle = {Intelligent Vehicles Symposium (IV), 2013 IEEE},
+  year = {2013},
+  pages = {1083-1088},
+  month = {June},
+  doi = {10.1109/IVS.2013.6629610},
+  issn = {1931-0587},
+  keywords = {control engineering computing;graph theory;mobile robots;multi-robot
+	systems;object detection;object recognition;operating systems (computers);public
+	domain software;robot vision;MAGIC 2010;Multi Autonomous Ground-robotic
+	International Challenge in 2010;ROS;WAMbot system;centralized global
+	planner;competitive down-selection process;cooperative multirobot
+	navigation;decentralized local navigation;global maps;intuitive graph-based
+	visual object recognition pipeline;large-scale mapping stack;large-scale
+	urban environments;mobile robots;multirobot exploration;multirobot
+	mapping;navigation stack;object detection;open source robot operating
+	system software framework;Cameras;Navigation;Object recognition;Robot
+	kinematics;Simultaneous localization and mapping;Visualization}
+}
+
+@CONFERENCE{LMAS_MSC_14,
+  author = {S. Leutenegger, A. Melzer, K. Alexis, R. Siegwart},
+  title = {Robust State Estimation for Small Unmanned Airplanes},
+  booktitle = {IEEE Multiconference on Systems and Control (MSC)},
+  year = {2014},
+  address = {Antibes, France}
+}
+
+@ARTICLE{guardians,
+  author = {Saez-Pons, Joan and Alboul, Lyuba and Penders, Jacques and Nomdedeu,
+	Leo },
+  title = {Multi-robot team formation control in the GUARDIANS project.},
+  journal = { Industrial Robot},
+  year = {2010},
+  volume = {37},
+  pages = {372-383},
+  number = {4}
+}
+
+@INPROCEEDINGS{Segal-RSS-09,
+  author = {A. Segal AND D. Haehnel AND S. Thrun},
+  title = {{G}eneralized-{I}{C}{P}},
+  booktitle = {Proceedings of Robotics: Science and Systems},
+  year = {2009},
+  pages = {1-8},
+  address = {Seattle, USA},
+  month = {June}
+}
+
+@TECHREPORT{serrano_interoperability,
+  author = {Daniel Serrano},
+  title = {Key initiatives for interoperability through standardization. Applicability
+	to Small Unmanned Vehicles},
+  year = {2015},
+  month = {Jan},
+  booktitle = {NATO RTO Lecture Series on Command and Reporting Standards and Associated
+	Development Tools for UxS, SCI-271}
+}
+
+@TECHREPORT{serrano_jaus,
+  author = {Daniel Serrano},
+  title = {Introduction to JAUS for unmanned systems interoperability},
+  year = {2015},
+  month = {Jan},
+  booktitle = {NATO RTO Lecture Series on “Command and Reporting Standards and
+	Associated Development Tools for UxS, SCI-271}
+}
+
+@MISC{SkybotixSite,
+  author = {{Skybotix AG}},
+  title = {{http://www.skybotix.com/}},
+  year = {available 2014}
+}
+
+@INPROCEEDINGS{Tomic,
+  author = {Tomic, T. and Schmid, K. and Lutz, P. and Domel, A. and Kassecker,
+	M. and Mair, E. and Grixa, I.L. and Ruess, F. and Suppa, M. and Burschka,
+	D.},
+  title = {Toward a Fully Autonomous UAV: Research Platform for Indoor and Outdoor
+	Urban Search and Rescue},
+  year = {2012},
+  volume = {19},
+  number = {3},
+  pages = {46--56},
+  month = {september},
+  publisher = {IEEE},
+  journal = {Robotics and Automation Magazine}
+}
+
+@INPROCEEDINGS{canine,
+  author = {Tran, J. and Ufkes, A. and Ferworn, A. and Fiala, M.},
+  title = {3D Disaster Scene Reconstruction Using a Canine-Mounted RGB-D Sensor},
+  booktitle = {Computer and Robot Vision (CRV), 2013 International Conference on},
+  year = {2013},
+  pages = {23-28},
+  month = {May},
+  doi = {10.1109/CRV.2013.15},
+  keywords = {emergency services;image colour analysis;image matching;image reconstruction;image
+	registration;image sensors;solid modelling;3D disaster scene reconstruction;3D
+	model;RGB-D image frame;canine-mounted RGB-D sensor;data registration;image
+	sensor;key point matching;red-green-blue;scene reconstruction;visible
+	image matching;Data models;Dogs;Feature extraction;Robot sensing
+	systems;Solid modeling;Visualization;3D Reconstruction;Canine Augmentation;RGB-D
+	Sensor;Urban Search and Rescue}
+}
+
+@INPROCEEDINGS{tiramisu,
+  author = {Yvinec, Yann and Baudoin, Yvan and De Cubber, Geert and Armada, Manuel
+	and Marques, Lino and Desaulniers, Jean-Marc and Bajic, Milan},
+  title = {TIRAMISU : FP7-Project for an integrated toolbox in Humanitarian
+	Demining},
+  booktitle = {GICHD Technology Workshop},
+  year = {2012},
+  location = {Geneva, Switzerland},
+  url = {http://mecatron.rma.ac.be/pub/2012/TIRAMISU-TWS-GICHD.pdf}
+}
+
+@INPROCEEDINGS{isosurface,
+  author = {Zask, R. and Dailey, M.N.},
+  title = {Rapid 3D visualization of indoor scenes using 3D occupancy grid isosurfaces},
+  booktitle = {Electrical Engineering/Electronics, Computer, Telecommunications
+	and Information Technology, 2009. ECTI-CON 2009. 6th International
+	Conference on},
+  year = {2009},
+  volume = {02},
+  pages = {672-675},
+  month = {May},
+  doi = {10.1109/ECTICON.2009.5137138},
+  keywords = {SLAM (robots);data visualisation;filtering theory;grid computing;image
+	reconstruction;image sequences;mesh generation;mobile robots;robot
+	vision;video signal processing;3D occupancy grid isosurfaces;3D visualization;OpenGL
+	model;a texture-mapped polygonal mesh model;image sequence;incremental
+	algorithm;isosurface-based reconstruction;mobile robotics applications;monocular
+	video feed;photorealistic structure;vision-based robot localization
+	and mapping;Feeds;Humans;Image reconstruction;Isosurfaces;Layout;Mobile
+	robots;Robot localization;Robot vision systems;Simultaneous localization
+	and mapping;Visualization}
+}
+
+@INPROCEEDINGS{RIM,
+  author = {Zhe Zhang and Anan Liu and Zan Gao and Chunming Liu},
+  title = {A Kinect-based 3D sensing and human action recognition solution for
+	urban search and rescue environments},
+  booktitle = {RO-MAN, 2013 IEEE},
+  year = {2013},
+  pages = {344-345},
+  month = {Aug},
+  doi = {10.1109/ROMAN.2013.6628488},
+  issn = {1944-9445},
+  keywords = {disasters;gesture recognition;image reconstruction;object tracking;3D
+	mapping;Kinect-based 3D sensing;USAR tasks;fine object reconstruction;human
+	action recognition solution;human identification;rich information
+	map;robotic urban search and rescue solution;Conferences;Electronic
+	mail;Robots;Robustness}
+}
+
+@ARTICLE{method1,
+  author = {Zhang, Zhe and Nejat, Goldie and Guo, Hong and Huang, Peisen},
+  title = {A novel 3D sensory system for robot-assisted mapping of cluttered
+	urban search and rescue environments},
+  journal = {Intelligent Service Robotics},
+  year = {2011},
+  volume = {4},
+  pages = {119-134},
+  number = {2},
+  doi = {10.1007/s11370-010-0082-3},
+  issn = {1861-2776},
+  keywords = {Urban search and rescue; Structured light sensing; Landmark identification;
+	3D mapping},
+  language = {English},
+  publisher = {Springer-Verlag},
+  url = {http://dx.doi.org/10.1007/s11370-010-0082-3}
+}
+
+@BOOK{stock,
+  title = {Example references of books with editors},
+  publisher = {Philadelphia: Curd and Cover},
+  year = {2000},
+  editor = {Greg Stock, and James Campbell}
+}
+
+@MISC{EODTeodor,
+  year = {available 2014},
+  note = {Retrieved June 13, 2014, from http://www.xtek.net/assets/Uploads/Sectors/EOD/TEODOR.pdf},
+  key = {telerob GmbH, EOD Robot tEODor - Product Description}
+}
+
+@MISC{bosnia,
+  year = {2014},
+  note = {Bosnia and Herzegovina, and Croatia. 26 May 2014},
+  key = {Assessment Capacities Project (ACAPS) Briefing Note Floods in Serbia}
+}
+
+@MISC{bosnia2,
+  year = {2014},
+  note = {Project Summary},
+  key = {Mine action after the floods regional synergy in emergency response,
+	technology development and capacity building}
+}
+
+@ELECTRONIC{eurathlon,
+  year = {2013},
+  title = {Eurathlon Site (http://www.eurathlon.eu/), accessed on 6/11/2014},
+  url = {http://www.eurathlon.eu/},
+  owner = {gdcubber},
+  timestamp = {2014.11.06}
+}
+
+@BOOK{apa,
+  year = {2006},
+  note = {Retrieved January 12, 2006, from http://www.apastyle.org/},
+  key = {APA Online Guide}
+}
+
+@MISC{wisconsin,
+  year = {2004},
+  note = {Retrieved January 12, 2006, from http://www.wisc.edu/writest/Handbook/DocAPA.html},
+  key = {University of Wisconsin-Madison's APA Guide}
+}
+
